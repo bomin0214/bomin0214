@@ -1,4 +1,4 @@
-## Hi there 👋
+## 11월 중순쯤에 작성할 예정입니다. 👋
 
 <!--
 **bomin0214/bomin0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
