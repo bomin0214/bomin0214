@@ -1,5 +1,5 @@
 ## 11월 중순쯤에 작성할 예정입니다. 👋
-
+과연 내가 개발자를 직종으로 선택하려나...?
 <!--
 **bomin0214/bomin0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
