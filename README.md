@@ -1,6 +1,5 @@
-## 11월 중순쯤에 작성할 예정입니다. 👋
-11월 13일(수요일)부터 백준문제 푸는중입니다. 언제까지 가려나 이게
-<!--
+## 12월 중순쯤에 작성할 예정입니다. 👋
+잘부탁드립니다
 **bomin0214/bomin0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
