@@ -29,7 +29,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bomin0214&theme=nord_bright" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bomin0214&theme=nord_bright" />
 </p>
 
 ## ✨ 방문자 수
