@@ -21,10 +21,6 @@
 ![Docker](https://img.shields.io/badge/Docker-B2DFDB?style=flat&logo=docker&logoColor=0DB7ED)
 
 
-## 🏆 BOJ (백준)
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhals0579)
-
 ## 📊 GitHub Stats (Pastel Theme)
 
 <p align="center">
