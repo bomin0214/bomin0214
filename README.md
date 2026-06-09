@@ -9,12 +9,6 @@
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-FFECB3?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-B3E5FC?style=flat&logo=mysql&logoColor=00758F)
 
-**Python Backend**
-
-![Python](https://img.shields.io/badge/Python-E1BEE7?style=flat&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-FFE0F0?style=flat&logo=flask&logoColor=000000)
-![Django](https://img.shields.io/badge/Django-D7FFEA?style=flat&logo=django&logoColor=092E20)
-
 **DevOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-FFE0B2?style=flat&logo=amazonaws&logoColor=FF9900)
